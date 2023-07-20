@@ -12,4 +12,4 @@
 > pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
 
 > 下载模型到 checkpoints/scnet 目录下：
-> wget https://download.openmmlab.com/mmdetection/v2.0/scnet/scnet_r50_fpn_1x_coco/scnet_r50_fpn_1x_coco-c3f09857.pth
+  wget https://download.openmmlab.com/mmdetection/v2.0/scnet/scnet_r50_fpn_1x_coco/scnet_r50_fpn_1x_coco-c3f09857.pth
